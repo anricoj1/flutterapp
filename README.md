@@ -39,3 +39,10 @@ git clone https://github.com/flutter/flutter.git
     - grep kvm /etc/group
     - sudo adduser $USER kvm
     - kvm:x:128:username
+
+
+# Learing
+    - Widgets Extend Widgets
+    - Classes extend StatlessWidgets {}
+    - Arrow Functions Can be used but with ONE expression:
+        - void main() => runApp(MyApp());
